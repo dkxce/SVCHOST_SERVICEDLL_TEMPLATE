@@ -1,0 +1,1 @@
+rundll32 CSharpSvcHostDLL.dll,Install /? /log="C:\log.txt"
